@@ -6,7 +6,7 @@ package com.issac.design.pattern.structural.decorator.v2;
  * date:    2018-12-12
  * desc:
  */
-public class EggDecorator extends AbstractDecorator {
+public class   EggDecorator extends AbstractDecorator {
     public EggDecorator(ABattercake aBattercake) {
         super(aBattercake);
     }
